@@ -1,0 +1,4 @@
+mvn clean install 
+maven:tomcat7:run-war 
+
+author andrius, andrius.satkauskas@gmail.com
